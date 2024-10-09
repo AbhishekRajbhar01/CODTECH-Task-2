@@ -1,4 +1,11 @@
-# Google Analytics Setup and Reporting
+- **Name**: ABHISHEK RAJBHAR
+- **Company**: CODTECH IT SOLUTIONS
+- **ID**: CT08DS8048
+- **Domain**: Digital Marketing
+- **Duration**: 10 Sep 2024 to 10 Oct 2024
+- **Mentor**: Neela Santosh Kumar
+-
+- # Project: Google Analytics Setup and Reporting
 
 ## Overview
 Google Analytics is a powerful tool for tracking and analyzing website traffic and user behavior. This guide will help you set up Google Analytics, add tracking codes, configure goals and events, create custom reports and dashboards, and analyze key metrics to make data-driven recommendations for optimizing your website.
